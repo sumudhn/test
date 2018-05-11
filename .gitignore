@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 *.py
 ignore.txt
+=======
+# Locally ignore .bak files
+*.bak
+>>>>>>> e33746e6b4ff625b1428b373fd0b66f9b0510805
